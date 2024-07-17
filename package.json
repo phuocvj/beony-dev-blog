@@ -4,7 +4,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/phuocvj/morethan-log.git"
+    "url": "https://github.com/phuocvj/beony-dev-blog.git"
   },
   "scripts": {
     "dev": "next dev",
