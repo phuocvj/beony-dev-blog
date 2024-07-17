@@ -7,7 +7,7 @@ const CONFIG = {
     bio: "I develop everything using C#,Node,ReactJS,NextJS and React Native.",
     email: "heo.superman@gmail.com",
     linkedin: "",
-    github: "phuocvj",
+    github: "",
     instagram: "peony.dev",
   },
   projects: [
